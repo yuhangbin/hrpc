@@ -1,2 +1,5 @@
-package com.cboy.hrpc.http;public interface HttpClient {
+package com.cboy.hrpc.http;
+
+public interface HttpClient {
+
 }
